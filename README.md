@@ -40,6 +40,16 @@ Sarebbe interessante vedere in modo più dettagliato da dove partono e dove arri
 
 ## Immaterials: Light painting WiFi, 2012, Timo Arnall, Jørn Knutsen and Einar Sneve Martinussen
 
+> #### info 
+>[Timo Arnall](http://www.elasticspace.com/) and [Voyoslo Studio](http://voyoslo.com/)<br>
+Grunerlokka, Oslo (Norvegia), 2012<br>
+
+![light painting wifi](https://i.vimeocdn.com/video/130418741_1280x720.jpg)
+
+>#### link
+[video](https://vimeo.com/20412632)<br>
+
+
 ### First impression
 Il progetto ha molte limitazioni poiché vuole trasmettere la densa rete in cui siamo esposti, ma proprio per questo non può occupare tutto lo spazio fisicamente, si avvale quindi di fotografie e di video, per dare un’idea approssimata della situazione in diversi ambienti urbani.
 
@@ -70,4 +80,4 @@ Cosa succederebbe se attraverso queste luci si ricreasse un ambiente immersivo, 
 >[+](https://instintopoetico.wordpress.com/2016/05/22/monument-caleb-larsen/)<br>
 >[+](http://www.siusoon.net/dat/2008/10/08/inspiring-work-monument-if-it-bleeds-it-leads-2006-by-caleb-larsen/)<br>
 
-> Minuscole palle gialle sparate da un congegno connesso ad un contenitore di forma cubica, situato al centro del soffitto, di una stanza vuota. Le palline lanciate apparentemente in modo casuale, dopo la caduta rimangono sparse sul pavimento. Immediata è l’immagine referenziale del lanciapalle da tennis. Lo sparo avviene quando in lingua inglese viene riportata la notizia di assassinio nel mondo. Attraverso un logaritmo vengono scansionati le notizie e per ogni notizia che corrispondente alla ricerca viene lanciata una pallina gialla. Sarebbe interessante se il pavimento fosse appiccicoso e le palline venissero sparate nel punto approssimato dove è avvenuto l’omicidio, e rimanessero lì.
+Minuscole palle gialle sparate da un congegno connesso ad un contenitore di forma cubica, situato al centro del soffitto, di una stanza vuota. Le palline lanciate apparentemente in modo casuale, dopo la caduta rimangono sparse sul pavimento. Immediata è l’immagine referenziale del lanciapalle da tennis. Lo sparo avviene quando in lingua inglese viene riportata la notizia di assassinio nel mondo. Attraverso un logaritmo vengono scansionati le notizie e per ogni notizia che corrispondente alla ricerca viene lanciata una pallina gialla. Sarebbe interessante se il pavimento fosse appiccicoso e le palline venissero sparate nel punto approssimato dove è avvenuto l’omicidio, e rimanessero lì.
