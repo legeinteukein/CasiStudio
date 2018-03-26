@@ -42,12 +42,12 @@ Sarebbe interessante vedere in modo più dettagliato da dove partono e dove arri
 
 > #### info 
 >[Timo Arnall](http://www.elasticspace.com/) and [Voyoslo Studio](http://voyoslo.com/)<br>
-Grunerlokka, Oslo (Norvegia), 2012<br>
+>Grunerlokka, Oslo (Norvegia), 2012<br>
 
 ![light painting wifi](https://i.vimeocdn.com/video/130418741_1280x720.jpg)
 
 >#### link
-[video](https://vimeo.com/20412632)<br>
+>[video](https://vimeo.com/20412632)<br>
 
 
 ### First impression
@@ -80,4 +80,20 @@ Cosa succederebbe se attraverso queste luci si ricreasse un ambiente immersivo, 
 >[+](https://instintopoetico.wordpress.com/2016/05/22/monument-caleb-larsen/)<br>
 >[+](http://www.siusoon.net/dat/2008/10/08/inspiring-work-monument-if-it-bleeds-it-leads-2006-by-caleb-larsen/)<br>
 
-Minuscole palle gialle sparate da un congegno connesso ad un contenitore di forma cubica, situato al centro del soffitto, di una stanza vuota. Le palline lanciate apparentemente in modo casuale, dopo la caduta rimangono sparse sul pavimento. Immediata è l’immagine referenziale del lanciapalle da tennis. Lo sparo avviene quando in lingua inglese viene riportata la notizia di assassinio nel mondo. Attraverso un logaritmo vengono scansionati le notizie e per ogni notizia che corrispondente alla ricerca viene lanciata una pallina gialla. Sarebbe interessante se il pavimento fosse appiccicoso e le palline venissero sparate nel punto approssimato dove è avvenuto l’omicidio, e rimanessero lì.
+### First impression
+Immediata è l’immagine referenziale del lanciapalle da tennis.
+
+#### What’s?
+Minuscole palle gialle sono sparate da un dispositivo connesso ad un contenitore di forma cubica, situato al centro del soffitto, di una stanza vuota. Le palline lanciate apparentemente in modo casuale, dopo la caduta rimangono sparse sul pavimento. 
+
+#### What does it mean?
+il significato risiede nelle emozioni che prova il visitatore. Il progetto scaturisce varie suggestioni quali: il fruitore viene spinto a desiderare di colpire la pallina che cade dal soffitto; il fruitore vedendo la pallina cadere é portato ad prendere la pallina, che dovrà ad un certo punto lasciar andare; il fruitore sente il peso di ogni singola pallina che cade provando la stessa sensazione della tortura cinese.
+
+#### How it  works?
+Lo sparo avviene quando in lingua inglese viene riportata la notizia di assassinio nel mondo. Attraverso un logaritmo vengono scansionati le notizie e per ogni notizia che corrispondente alla ricerca viene lanciata una pallina gialla.
+
+#### What if...
+Sarebbe interessante se il pavimento fosse appiccicoso e le palline venissero sparate nel punto approssimato dove è avvenuto l’omicidio, e rimanessero lì.
+
+
+
