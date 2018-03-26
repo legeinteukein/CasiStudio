@@ -12,9 +12,13 @@ analisi di tre casi studio (The flow towards Europe, Immaterials: Light painting
 ![monument](http://i1.wp.com/caleblarsen.com/wordpress/wp-content/uploads/2013/01/CalebLarsen_02.jpg)
 
 > #### link <br>
->monument [+](http://caleblarsen.com/monument/) <br>
+> [sito ufficiale](http://caleblarsen.com/monument/) <br>
 >[+](https://instintopoetico.wordpress.com/2016/05/22/monument-caleb-larsen/)<br>
 >[+](http://www.siusoon.net/dat/2008/10/08/inspiring-work-monument-if-it-bleeds-it-leads-2006-by-caleb-larsen/)<br>
+
+
+### First impression
+Da un primo sguardo sembra che i punti convergano tutti in un unico luogo. Il progetto cattura l'attenzione e riesce a mantenerla probabilmente perchè efficace, data la narrazione - tragitto dei pallini-, anche senza usufruire dell'interattività che la mappa offre.
 
 
 #### What’s?
