@@ -7,7 +7,7 @@ analisi di tre casi studio (The flow towards Europe, Immaterials: Light painting
 
 > #### info 
 >[Lucify](https://www.lucify.com)<br>
->[The flow towards Europe] (The flow towards Europe)<br>
+>[The flow towards Europe](https://www.lucify.com/the-flow-towards-europe/)<br>
 >2015<br>
 
 ![The flow](https://dublin.sciencegallery.com/trauma/assets/img/exhibits/the-flow-towards-europe.jpg)
