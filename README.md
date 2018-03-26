@@ -76,9 +76,8 @@ Cosa succederebbe se attraverso queste luci si ricreasse un ambiente immersivo, 
 ![monument](http://i1.wp.com/caleblarsen.com/wordpress/wp-content/uploads/2013/01/CalebLarsen_02.jpg)
 
 > #### link <br>
-> [sito ufficiale](http://caleblarsen.com/monument/) <br>
->[+](https://instintopoetico.wordpress.com/2016/05/22/monument-caleb-larsen/)<br>
->[+](http://www.siusoon.net/dat/2008/10/08/inspiring-work-monument-if-it-bleeds-it-leads-2006-by-caleb-larsen/)<br>
+> [monument, sito ufficiale](http://caleblarsen.com/monument/) <br>
+
 
 ### First impression
 Immediata è l’immagine referenziale del lanciapalle da tennis.
