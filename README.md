@@ -35,7 +35,7 @@ Sarebbe interessante vedere in modo più dettagliato da dove partono e dove arri
 > #### progetti simili <br>
 >[infografiche migrazione](http://openmigration.org/infografiche/#all)
 
-
+<br><br><br>
 
 
 ## Immaterials: Light painting WiFi, 2012, Timo Arnall, Jørn Knutsen and Einar Sneve Martinussen
