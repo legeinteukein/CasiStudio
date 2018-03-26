@@ -87,13 +87,13 @@ Immediata è l’immagine referenziale del lanciapalle da tennis.
 Minuscole palle gialle sono sparate da un dispositivo connesso ad un contenitore di forma cubica, situato al centro del soffitto, di una stanza vuota. Le palline lanciate apparentemente in modo casuale, dopo la caduta rimangono sparse sul pavimento. 
 
 #### What does it mean?
-il significato risiede nelle emozioni che prova il visitatore. Il progetto scaturisce varie suggestioni quali: il fruitore viene spinto a desiderare di colpire la pallina che cade dal soffitto; il fruitore vedendo la pallina cadere é portato ad prendere la pallina, che dovrà ad un certo punto lasciar andare; il fruitore sente il peso di ogni singola pallina che cade provando la stessa sensazione della tortura cinese.
+il significato risiede nelle emozioni che prova il visitatore. Il progetto scaturisce varie suggestioni quali: il fruitore viene spinto a desiderare di colpire la pallina che cade dal soffitto; il fruitore vedendo la pallina cadere é portato ad prendere la pallina, che dovrà ad un certo punto lasciar andare; il fruitore sente il peso di ogni singola pallina che cade provando la stessa sensazione della tortura cinese. i sentimenti possono essere sintetizzati in rabbia, caducità, impotenza.
 
 #### How it  works?
 Lo sparo avviene quando in lingua inglese viene riportata la notizia di assassinio nel mondo. Attraverso un logaritmo vengono scansionati le notizie e per ogni notizia che corrispondente alla ricerca viene lanciata una pallina gialla.
 
 #### What if...
-Sarebbe interessante se il pavimento fosse appiccicoso e le palline venissero sparate nel punto approssimato dove è avvenuto l’omicidio, e rimanessero lì.
+:thumbsdown: (Sarebbe interessante se il pavimento fosse appiccicoso e le palline venissero sparate nel punto approssimato dove è avvenuto l’omicidio, e rimanessero lì)
 
 
 
