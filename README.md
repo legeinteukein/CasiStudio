@@ -18,7 +18,7 @@ analisi di tre casi studio (The flow towards Europe, Immaterials: Light painting
 
 
 ### First impression
-Da un primo sguardo sembra che i punti convergano tutti in un unico luogo. Il progetto cattura l'attenzione e riesce a mantenerla probabilmente perchè efficace, data la narrazione - tragitto dei pallini-, anche senza usufruire dell'interattività che la mappa offre.
+Da un primo sguardo sembra che i punti convergano tutti in un unico luogo. Il progetto cattura l'attenzione e riesce a mantenerla  perchè la narrazione -*tragitto dei pallini*- è efficace, anche senza che la persona usufruisca dell'interattività che la mappa offre.
 
 
 #### What’s?
@@ -32,6 +32,11 @@ Dalla descrizione sappiamo che i dati utilizzati sono quelli forniti dalle Nazio
 
 #### What if...
 Sarebbe interessante vedere in modo più dettagliato da dove partono e dove arrivano le persone che emigrano.
+
+>progetti simili
+>[infografiche migrazione](http://openmigration.org/infografiche/#all)
+
+
 
 
 ## Immaterials: Light painting WiFi, 2012, Timo Arnall, Jørn Knutsen and Einar Sneve Martinussen
