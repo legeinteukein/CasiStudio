@@ -4,7 +4,21 @@ analisi di tre casi studio (The flow towards Europe, Immaterials: Light painting
 
 ## The flow towards Europe, 2015, Lucify
 
-> #### What’s?
+
+> info
+[Caleb Larsen](http://caleblarsen.com/)<br>
+Peacock Visual Arts di Aberdeen, Scozia, 2008<br>
+
+
+> link
+[+](http://caleblarsen.com/monument/)
+[+](https://instintopoetico.wordpress.com/2016/05/22/monument-caleb-larsen/)
+[+](http://www.siusoon.net/dat/2008/10/08/inspiring-work-monument-if-it-bleeds-it-leads-2006-by-caleb-larsen/)
+
+![monument](http://i1.wp.com/caleblarsen.com/wordpress/wp-content/uploads/2013/01/CalebLarsen_02.jpg)
+
+
+#### What’s?
 Il progetto viene rappresentato da una mappa colorata con due sfumature di blu una per il mare e l’altra più scura per i continenti, i confini sono delimitati da linee azzurre. La mappa contiene al suo interno pallini bianchi che si generano nel punto centrale dello stato da cui partono e compiono la traiettoria più breve per arrivare al centro di un altro stato. Nel tragitto lasciano una breve scia tratteggiata. I pallini arrivati nello stato di destinazione si accumulano e formano dei rettangoli bianchi che si sviluppano in partenza. Quando si punta il mouse sopra un Paese i colori della mappa cambiano, appaiono i nomi dei paesi che hanno cambiato colore e sotto a questi una cifra cresce in positivo o in negativo, si nota che quelli verdi aumentano, mentre quelli tendenti al viola diminuiscono, i pallini bianchi visibili ora sono solo quelli che coinvolgono i paesi colorati di verde e viola e il paese selezionato. Osservando ci sono paesi che attivano solo paesi verdi, altri entrambi. 
 
 #### What does it mean?
