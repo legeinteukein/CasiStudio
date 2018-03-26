@@ -40,6 +40,9 @@ Sarebbe interessante vedere in modo più dettagliato da dove partono e dove arri
 
 ## Immaterials: Light painting WiFi, 2012, Timo Arnall, Jørn Knutsen and Einar Sneve Martinussen
 
+### First impression
+Il progetto ha molte limitazioni poiché vuole trasmettere la densa rete in cui siamo esposti, ma proprio per questo non può occupare tutto lo spazio fisicamente, si avvale quindi di fotografie e di video, per dare un’idea approssimata della situazione in diversi ambienti urbani.
+
 #### What’s?
 Il progetto viene descritto da un video, poiché l’installazione non può essere permanente. 
 
@@ -50,7 +53,7 @@ Il progetto vuole rendere visibile, utilizzando l'impatto luminoso dei led, la r
 Il modulo è una barra in cui vengono inseriti in fila dei led aventi lo stesso colore. I led si possono accendere e spegnere. Il video mostra come spostandosi nello spazio mantenendo la barra perpendicolare al terreno, questa si illumina, in base ad una quantità precisa di led accesi. La strumentazione è dotata di un rilevatore di frequenze wifi che trasmette la potenza di segnale ad un computer che lo converte e determina il numero di led accesi in una determinata posizione nello spazio. 
 
 #### What if...
-Il progetto ha molte limitazioni poiché vuole trasmettere la densa rete in cui siamo esposti, ma proprio per questo non può occupare tutto lo spazio fisicamente, si avvale quindi di fotografie e di video, per dare un’idea approssimata della situazione in diversi ambienti urbani.
+Cosa succederebbe se attraverso queste luci si ricreasse un ambiente immersivo, o attraverso l'utilizzo di dispositivi VR si potesse navigare la mappa costruita dalle onde-luce wifi.
 
 
 
