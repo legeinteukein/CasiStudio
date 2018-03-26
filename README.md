@@ -6,16 +6,13 @@ analisi di tre casi studio (The flow towards Europe, Immaterials: Light painting
 
 
 > #### info 
->[Caleb Larsen](http://caleblarsen.com/)<br>
->Peacock Visual Arts di Aberdeen, Scozia, 2008<br>
+>[Lucify](https://www.lucify.com)<br>
+>2015<br>
 
-![monument](http://i1.wp.com/caleblarsen.com/wordpress/wp-content/uploads/2013/01/CalebLarsen_02.jpg)
+![The flow](https://dublin.sciencegallery.com/trauma/assets/img/exhibits/the-flow-towards-europe.jpg)
 
 > #### link <br>
-> [sito ufficiale](http://caleblarsen.com/monument/) <br>
->[+](https://instintopoetico.wordpress.com/2016/05/22/monument-caleb-larsen/)<br>
->[+](http://www.siusoon.net/dat/2008/10/08/inspiring-work-monument-if-it-bleeds-it-leads-2006-by-caleb-larsen/)<br>
-
+> [sito ufficiale](https://www.lucify.com/the-flow-towards-europe/) <br>
 
 ### First impression
 Da un primo sguardo sembra che i punti convergano tutti in un unico luogo. Il progetto cattura l'attenzione e riesce a mantenerla  perchè la narrazione -*tragitto dei pallini*- è efficace, anche senza che la persona usufruisca dell'interattività che la mappa offre.
@@ -33,7 +30,7 @@ Dalla descrizione sappiamo che i dati utilizzati sono quelli forniti dalle Nazio
 #### What if...
 Sarebbe interessante vedere in modo più dettagliato da dove partono e dove arrivano le persone che emigrano.
 
->progetti simili
+>progetti simili <br>
 >[infografiche migrazione](http://openmigration.org/infografiche/#all)
 
 
@@ -41,9 +38,20 @@ Sarebbe interessante vedere in modo più dettagliato da dove partono e dove arri
 
 ## Immaterials: Light painting WiFi, 2012, Timo Arnall, Jørn Knutsen and Einar Sneve Martinussen
 
-> Il progetto viene descritto da un video, poiché l’installazione non può essere permanente. Il modulo è una barra in cui vengono inseriti in fila dei led aventi lo stesso colore. I led si possono accendere e spegnere. Il video mostra come spostandosi nello spazio mantenendo la barra perpendicolare al terreno, questa si illumina, in base ad una quantità precisa di led accesi. La strumentazione è dotata di un rilevatore di frequenze wifi che trasmette la potenza di segnale ad un computer che lo converte e determina il numero di led accesi in una determinata posizione nello spazio. Il progetto ha molte limitazioni poiché vuole trasmettere la densa rete in cui siamo esposti, ma proprio per questo non può occupare tutto lo spazio fisicamente, si avvale quindi di fotografie e di video, per dare un’idea approssimata della situazione in diversi ambienti urbani.
+Il progetto viene descritto da un video, poiché l’installazione non può essere permanente. Il modulo è una barra in cui vengono inseriti in fila dei led aventi lo stesso colore. I led si possono accendere e spegnere. Il video mostra come spostandosi nello spazio mantenendo la barra perpendicolare al terreno, questa si illumina, in base ad una quantità precisa di led accesi. La strumentazione è dotata di un rilevatore di frequenze wifi che trasmette la potenza di segnale ad un computer che lo converte e determina il numero di led accesi in una determinata posizione nello spazio. Il progetto ha molte limitazioni poiché vuole trasmettere la densa rete in cui siamo esposti, ma proprio per questo non può occupare tutto lo spazio fisicamente, si avvale quindi di fotografie e di video, per dare un’idea approssimata della situazione in diversi ambienti urbani.
 
 
 ## Monument, 2006, Caleb Larsen
+
+> #### info 
+>[Caleb Larsen](http://caleblarsen.com/)<br>
+>Peacock Visual Arts di Aberdeen, Scozia, 2006<br>
+
+![monument](http://i1.wp.com/caleblarsen.com/wordpress/wp-content/uploads/2013/01/CalebLarsen_02.jpg)
+
+> #### link <br>
+> [sito ufficiale](http://caleblarsen.com/monument/) <br>
+>[+](https://instintopoetico.wordpress.com/2016/05/22/monument-caleb-larsen/)<br>
+>[+](http://www.siusoon.net/dat/2008/10/08/inspiring-work-monument-if-it-bleeds-it-leads-2006-by-caleb-larsen/)<br>
 
 > Minuscole palle gialle sparate da un congegno connesso ad un contenitore di forma cubica, situato al centro del soffitto, di una stanza vuota. Le palline lanciate apparentemente in modo casuale, dopo la caduta rimangono sparse sul pavimento. Immediata è l’immagine referenziale del lanciapalle da tennis. Lo sparo avviene quando in lingua inglese viene riportata la notizia di assassinio nel mondo. Attraverso un logaritmo vengono scansionati le notizie e per ogni notizia che corrispondente alla ricerca viene lanciata una pallina gialla. Sarebbe interessante se il pavimento fosse appiccicoso e le palline venissero sparate nel punto approssimato dove è avvenuto l’omicidio, e rimanessero lì.
