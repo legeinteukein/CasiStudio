@@ -30,7 +30,8 @@ Dalla descrizione sappiamo che i dati utilizzati sono quelli forniti dalle Nazio
 #### What if...
 Sarebbe interessante vedere in modo più dettagliato da dove partono e dove arrivano le persone che emigrano.
 
->progetti simili <br>
+
+> #### progetti simili <br>
 >[infografiche migrazione](http://openmigration.org/infografiche/#all)
 
 
@@ -38,7 +39,18 @@ Sarebbe interessante vedere in modo più dettagliato da dove partono e dove arri
 
 ## Immaterials: Light painting WiFi, 2012, Timo Arnall, Jørn Knutsen and Einar Sneve Martinussen
 
-Il progetto viene descritto da un video, poiché l’installazione non può essere permanente. Il modulo è una barra in cui vengono inseriti in fila dei led aventi lo stesso colore. I led si possono accendere e spegnere. Il video mostra come spostandosi nello spazio mantenendo la barra perpendicolare al terreno, questa si illumina, in base ad una quantità precisa di led accesi. La strumentazione è dotata di un rilevatore di frequenze wifi che trasmette la potenza di segnale ad un computer che lo converte e determina il numero di led accesi in una determinata posizione nello spazio. Il progetto ha molte limitazioni poiché vuole trasmettere la densa rete in cui siamo esposti, ma proprio per questo non può occupare tutto lo spazio fisicamente, si avvale quindi di fotografie e di video, per dare un’idea approssimata della situazione in diversi ambienti urbani.
+#### What’s?
+Il progetto viene descritto da un video, poiché l’installazione non può essere permanente. 
+
+#### What does it mean?
+Il progetto vuole rendere visibile, utilizzando l'impatto luminoso dei led, la rete wifi in cui siamo immersi.
+
+#### How it  works?
+Il modulo è una barra in cui vengono inseriti in fila dei led aventi lo stesso colore. I led si possono accendere e spegnere. Il video mostra come spostandosi nello spazio mantenendo la barra perpendicolare al terreno, questa si illumina, in base ad una quantità precisa di led accesi. La strumentazione è dotata di un rilevatore di frequenze wifi che trasmette la potenza di segnale ad un computer che lo converte e determina il numero di led accesi in una determinata posizione nello spazio. 
+
+#### What if...
+Il progetto ha molte limitazioni poiché vuole trasmettere la densa rete in cui siamo esposti, ma proprio per questo non può occupare tutto lo spazio fisicamente, si avvale quindi di fotografie e di video, per dare un’idea approssimata della situazione in diversi ambienti urbani.
+
 
 
 ## Monument, 2006, Caleb Larsen
