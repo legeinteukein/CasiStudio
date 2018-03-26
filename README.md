@@ -5,7 +5,7 @@ analisi di tre casi studio (The flow towards Europe, Immaterials: Light painting
 ## The flow towards Europe, 2015, Lucify
 
 
-> #### info <br>
+> #### info 
 [Caleb Larsen](http://caleblarsen.com/)<br>
 Peacock Visual Arts di Aberdeen, Scozia, 2008<br>
 
